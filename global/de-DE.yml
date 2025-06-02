@@ -1,0 +1,3 @@
+global.no_permission: <red>Du hast keine Rechte, das zu tun
+global.chat.default: ${0} <gray>»</gray> ${1}
+global.chat.global_tooltip: Jeder kann diese Nachricht lesen
