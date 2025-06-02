@@ -25,6 +25,7 @@ cookies.player_died: '${0} <gray>died'
 cookies.player_killed: '${0} <gray>was killed by</gray> ${1}'
 cookies.kill.title: '<yellow>⚔'
 cookies.kill.subtitle: '<yellow>${1} Kills'
+cookies.enemies_near_tower: There are enemies near your tower
 
 # End phase
 cookies.winner.nobody: <red>Nobody
