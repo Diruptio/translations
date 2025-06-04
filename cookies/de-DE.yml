@@ -68,7 +68,7 @@ cookies.team.team_dark_green.display_name: <dark_green>Dunkelgrünes Team</dark_
 # Shop
 cookies.banker: Bänker
 cookies.shop.price: 'Preis: <gold>${0} Kekse</gold>'
-cookies.shop.discounted_price: 'Preis: <gold><strikethrough>${0} Cookies</strikethrough> ${1} Kekse</gold>'
+cookies.shop.discounted_price: 'Preis: <gold><strikethrough>${0}</strikethrough> ${1} Kekse</gold>'
 cookies.shop.itemshop: Händler
 cookies.shop.upgradeshop: Upgrades
 cookies.shop.category.machines.name: Maschinen
@@ -126,7 +126,7 @@ cookies.upgrade.drop_bonus.level.3.description: <strikethrough>60%</strikethroug
 cookies.upgrade.quick_spawn.level.1.name: Quick Spawn I
 cookies.upgrade.quick_spawn.level.1.description: Deine Maschinen produzieren 20% schneller
 cookies.upgrade.quick_spawn.level.2.name: Quick Spawn II
-cookies.upgrade.quick_spawn.level.2.description: Deine Maschinen produzieren 30% schneller
+cookies.upgrade.quick_spawn.level.2.description: Deine Maschinen produzieren <strikethrough>20%</strikethrough> 30% schneller
 cookies.upgrade.security.level.1.name: Sicherheit I
 cookies.upgrade.security.level.1.description: Gegner erhalten <lang:effect.minecraft.blindness> in deinen Maschinen
 cookies.upgrade.security.level.2.name: Sicherheit II
@@ -194,11 +194,11 @@ cookies.upgrade.simple_deposit.level.1.description: |
   
 # Ultimate Upgrades
 cookies.ultimate.building_speed.name: Ultimative Geschwindigkeit
-cookies.ultimate.building_speed.description: Otto baut <strikethrough>40%</strikethrough> 50% schneller
+cookies.ultimate.building_speed.description: Otto baut <strikethrough>40%</strikethrough> 60% schneller
 cookies.ultimate.movement_speed.name: Ultimative Schnelligkeit
 cookies.ultimate.movement_speed.description: Erhalte <lang:effect.minecraft.speed> III
 cookies.ultimate.quick_spawn.name: Ultimatives Quick Spawn
-cookies.ultimate.quick_spawn.description: Deine Maschinen produzieren <strikethrough>30%</strikethrough> 35% schneller
+cookies.ultimate.quick_spawn.description: Deine Maschinen produzieren <strikethrough>30%</strikethrough> 40% schneller
 cookies.ultimate.resistance.name: Ultimative Resistenz
 cookies.ultimate.resistance.description: Ottos Blöcke werden extrem hart
 
