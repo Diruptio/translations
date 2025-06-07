@@ -28,6 +28,7 @@ cookies.player_killed: '${0} <gray>wurde von</gray> ${1} <gray>getötet'
 cookies.kill.title: '<yellow>⚔'
 cookies.kill.subtitle: '<yellow>${1} Kills'
 cookies.enemies_near_tower: In der Nähe deines Turmes befinden sich Gegner
+cookies.game_ends_in: Cookies endet ohne Gewinner in <yellow>${0}</yellow> Minuten
 
 # End phase
 cookies.winner.nobody: <red>Niemand
