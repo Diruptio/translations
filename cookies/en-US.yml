@@ -12,6 +12,7 @@ cookies.team_dropped_out: ${0} dropped out of the game
 cookies.cannot_place_in_spawn_area: You cannot place blocks in the spawn area
 cookies.machine_limit_reached: You have reached the limit of this machine
 cookies.cannot_place_machine_here: You cannot place this machine here
+cookies.cannot_place_blocks_here: You cannot place blocks here
 cookies.your_account: Your account
 cookies.team_account: Team account
 cookies.cookie_rain_announcement: A cookie rain appears in the sky
