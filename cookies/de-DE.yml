@@ -12,6 +12,7 @@ cookies.team_dropped_out: ${0} ist ausgeschieden
 cookies.cannot_place_in_spawn_area: Du kannst im Spawnbereich keine Blöcke platzieren
 cookies.machine_limit_reached: Du hast das Limit dieser Maschinenart erreicht
 cookies.cannot_place_machine_here: Du kannst diese Maschine hier nicht platzieren
+cookies.cannot_place_blocks_here: Du kannst hier keine Blöcke platzieren
 cookies.your_account: Dein Konto
 cookies.team_account: Teamkonto
 cookies.cookie_rain_announcement: Ein Keksregen zieht am Himmel auf
