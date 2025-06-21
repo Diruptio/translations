@@ -38,7 +38,7 @@ cookies.won.title: ${cookies.winner}
 cookies.won.subtitle: <green>hat das Spiel gewonnen
 cookies.server_closes_in: Dieser Server schließt in <yellow>${0}</yellow> Sekunden
 cookies.server_closes_now: Dieser Server schließt <yellow>jetzt</yellow>
-
+cookies.server_closing: <red>Dieser Server schließt gerade
 
 # Information
 cookies.map: Spielkarte
