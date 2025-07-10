@@ -209,7 +209,7 @@ cookies.item.tower.name: Pop-Up-Turm
 cookies.item.invisibility.name: <lang:item.minecraft.potion.effect.invisibility>
 cookies.item.jump_boost.name: <lang:item.minecraft.potion.effect.leaping>
 cookies.item.sandstone.name: <lang:block.minecraft.sandstone>
-cookies.item.wood.name: <lang:block.minecraft.pale_planks>
+cookies.item.wood.name: <lang:block.minecraft.pale_oak_planks>
 cookies.item.cobweb.name: <lang:block.minecraft.cobweb>
 
 # Equipment
