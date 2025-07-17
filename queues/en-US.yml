@@ -1,0 +1,8 @@
+queues.join: You joined the queue for <yellow>${0}
+queues.leave: You left the queue for <yellow>${0}
+queues.already-in-queue: <red>You are already in that queue
+queues.not-in-queue: <red>You are not in that queue
+
+queue.bossbar.waiting-for-players: ${0} (${1}/${2}) - Waiting for more players
+queue.bossbar.waiting: ${0} (${1}/${2}) - Starting in ${3}
+queue.bossbar.waiting-for-server: ${0} (${1}/${2}) - Preparing server...
