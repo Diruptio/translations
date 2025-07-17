@@ -4,5 +4,8 @@ global:
 translate:
   name: Translate
 
+queues:
+  name: Queues
+
 cookies:
   name: Cookies
