@@ -1,0 +1,9 @@
+queues.join: Du bist der Warteschlange für <yellow>${0}</yellow> beigetreten
+queues.leave: Du hast die Warteschlange für <yellow>${0}</yellow> verlassen
+queues.already-in-queue: <red>Du bist bereits in dieser Warteschlange
+queues.not-in-queue: <red>Du bist aktuell nicht in dieser Warteschlange
+queues.not-enough-players: <red>In der Warteschlange befinden sich nicht genug Spieler
+
+queues.bossbar.waiting-for-players: ${0} (${1}/${2}) - Warte auf weitere Spieler
+queues.bossbar.waiting: ${0} (${1}/${2}) - Startet in ${3}
+queues.bossbar.waiting-for-server: ${0} (${1}/${2}) - Server wird vorbereitet...
