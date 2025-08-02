@@ -70,9 +70,14 @@ cookies.team.team_dark_green.display_name: <dark_green>Dark green team</dark_gre
 # Banker
 cookies.banker: Banker
 cookies.banker.deposit: Deposit ${0} Cookies into your team account
-cookies.banker.current_balance: Team account: <gold>${0} Cookies</gold>
+cookies.banker.current_balance: Team account: ${0} Cookies
 cookies.banker.sell_cookie_block: Sell a Cookie Block for 2 Cookies
 cookies.banker.sell_all_cookie_blocks: Sell all Cookie Blocks 2 Cookies each
+
+# Builder
+cookies.builder: Builder
+cookies.builder.deposit: Give ${1} Cookies to ${1}
+cookies.builder.current_balance: "${0}'s balance: ${1} Cookies"
 
 # Shop
 cookies.shop.price: 'Price: <gold>${0} Cookies</gold>'
