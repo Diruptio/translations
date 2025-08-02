@@ -67,8 +67,14 @@ cookies.team.team_orange.display_name: <gold>Orange team</gold>
 cookies.team.team_dark_green.name: Green
 cookies.team.team_dark_green.display_name: <dark_green>Dark green team</dark_green>
 
-# Shop
+# Banker
 cookies.banker: Banker
+cookies.banker.deposit: Deposit ${0} Cookies into your team account
+cookies.banker.current_balance: Team account: <gold>${0} Cookies</gold>
+cookies.banker.sell_cookie_block: Sell a Cookie Block
+cookies.banker.sell_all_cookie_blocks: Sell all Cookie Blocks
+
+# Shop
 cookies.shop.price: 'Price: <gold>${0} Cookies</gold>'
 cookies.shop.discounted_price: 'Price: <gold><strikethrough>${0}</strikethrough> ${1} Cookies</gold>'
 cookies.shop.itemshop: Item Shop
