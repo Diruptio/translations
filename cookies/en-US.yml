@@ -76,7 +76,7 @@ cookies.banker.sell_all_cookie_blocks: Sell all Cookie Blocks 2 Cookies each
 
 # Builder
 cookies.builder: Builder
-cookies.builder.deposit: Give ${1} Cookies to ${1}
+cookies.builder.deposit: Give ${1} Cookies to ${0}
 cookies.builder.current_balance: "${0}'s balance: ${1} Cookies"
 
 # Shop
