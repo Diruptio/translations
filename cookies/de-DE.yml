@@ -67,6 +67,18 @@ cookies.team.team_orange.display_name: <gold>Oranges Team</gold>
 cookies.team.team_dark_green.name: Dunkelgrün
 cookies.team.team_dark_green.display_name: <dark_green>Dunkelgrünes Team</dark_green>
 
+# Banker
+cookies.banker: Bänker
+cookies.banker.deposit: Zahle ${0} Kekse in dein Team Konto ein
+cookies.banker.current_balance: Team Konto: ${0} Kekse
+cookies.banker.sell_cookie_block: Verkaufe einen Keksblock für 2 Kekse
+cookies.banker.sell_all_cookie_blocks: Verkaufe alle Keksblöcke für jeweils 2 Kekse
+
+# Builder
+cookies.builder: Baumeister
+cookies.builder.deposit: Gib ${0} ${1} Kekse
+cookies.builder.current_balance: "${0}s Guthaben: ${1} Kekse"
+
 # Shop
 cookies.banker: Bänker
 cookies.shop.price: 'Preis: <gold>${0} Kekse</gold>'
