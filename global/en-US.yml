@@ -3,3 +3,4 @@ global.chat.default: ${0} <gray>»</gray> ${1}
 global.chat.global_tooltip: Every team can read the message
 global.kick.server_full: <red>This server is full
 global.kick.replaced_by_higher_rank: <red>Your server was full. Your slot has been taken by a player with a higher rank.
+global.no_lobby_found: <red>No lobby server was found
