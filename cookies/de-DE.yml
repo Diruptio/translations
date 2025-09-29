@@ -1,5 +1,8 @@
 # Lobby Phase
 cookies.game_starts_in: Cookies beginnt in ${cookies.countdown} Sekunden
+cookies.key_to_select_a_team: <gray>Drücke <yellow><key:key.jump></yellow>, um ein Team auszuwählen
+cookies.map.title: <gray>${tr.cookies.map} » <yellow>${cookies.map}</yellow>
+cookies.map.subtitle: <gray>${tr.cookies.builders} » <yellow>${cookies.builders}</yellow>
 cookies.game_starts_now: Cookies beginnt jetzt!
 cookies.select_team: Wähle ein Team aus
 cookies.you_started: Du hast das Spiel gestartet
