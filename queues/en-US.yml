@@ -8,4 +8,4 @@ queues.bossbar.waiting-for-players: ${0} (${1}/${2}) - Waiting for more players
 queues.bossbar.waiting: ${0} (${1}/${2}) - Starting in ${3}
 queues.bossbar.waiting-for-server: ${0} (${1}/${2}) - Preparing server...
 
-queues.display: <yellow>${0}</yellow><newline><newline><blue>${1}Players<newline>are waiting</blue>
+queues.display: <yellow>${0}</yellow><newline><newline><blue>${1} Players<newline>are waiting</blue>
