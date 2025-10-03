@@ -7,3 +7,5 @@ queues.not-enough-players: <red>In der Warteschlange befinden sich nicht genug S
 queues.bossbar.waiting-for-players: ${0} (${1}/${2}) - Warte auf weitere Spieler
 queues.bossbar.waiting: ${0} (${1}/${2}) - Startet in ${3}
 queues.bossbar.waiting-for-server: ${0} (${1}/${2}) - Server wird vorbereitet...
+
+queues.display: <yellow>${0}</yellow><newline><newline><blue>${1} Spieler<newline>warten</blue>
