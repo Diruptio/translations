@@ -11,7 +11,6 @@ cookies.map_changed: The map was changed to <yellow>${0}
 
 # Ingame Phase
 cookies.ultimates_unlocked: The <light_purple><bold>Ultimate upgrades</bold></light_purple> have been unlocked
-cookies.team_dropped_out: ${0} dropped out of the game
 cookies.cannot_place_in_spawn_area: You cannot place blocks in the spawn area
 cookies.machine_limit_reached: You have reached the limit of this machine
 cookies.cannot_place_machine_here: You cannot place this machine here
@@ -54,7 +53,7 @@ cookies.cookie_rain: Cookie Rain
 cookies.player_joined: ${0} joined the game
 cookies.player_left: ${0} left the game
 cookies.player_rejoined: ${0} rejoined the game
-cookies.stats_disabled: Stats are disabled in this game
+cookies.rewards_and_statistics_disabled: Rewards and statistics for this game have been disabled
 
 # Teams
 cookies.team.team_red.name: Red
