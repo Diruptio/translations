@@ -11,7 +11,6 @@ cookies.map_changed: Die Spielkarte wurde zu <yellow>${0}</yellow> geändert
 
 # Ingame Phase
 cookies.ultimates_unlocked: Die <light_purple><bold>Ultimativen Upgrades</bold></light_purple> wurden freigeschaltet
-cookies.team_dropped_out: ${0} ist ausgeschieden
 cookies.cannot_place_in_spawn_area: Du kannst im Spawnbereich keine Blöcke platzieren
 cookies.machine_limit_reached: Du hast das Limit dieser Maschinenart erreicht
 cookies.cannot_place_machine_here: Du kannst diese Maschine hier nicht platzieren
@@ -54,7 +53,7 @@ cookies.cookie_rain: Keksregen
 cookies.player_joined: ${0} hat das Spiel betreten
 cookies.player_left: ${0} hat das Spiel verlassen
 cookies.player_rejoined: ${0} hat das Spiel erneut betreten
-cookies.stats_disabled: Statistiken sind in diesem Spiel deaktiviert
+cookies.rewards_and_statistics_disabled: Belohnungen und Statistiken für dieses Spiel wurden deaktiviert
 
 # Teams
 cookies.team.team_red.name: Rot
